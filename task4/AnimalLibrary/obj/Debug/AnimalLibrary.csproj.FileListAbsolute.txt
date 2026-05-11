@@ -1,0 +1,12 @@
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\AnimalLibrary\obj\Debug\AnimalLibrary.csproj.AssemblyReference.cache
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\AnimalLibrary\obj\Debug\AnimalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\AnimalLibrary\bin\Debug\AnimalLibrary.dll
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\AnimalLibrary\bin\Debug\AnimalLibrary.pdb
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\AnimalLibrary\obj\Debug\AnimalLibrary.dll
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\AnimalLibrary\obj\Debug\AnimalLibrary.pdb
+C:\Users\shelly\Desktop\task4\AnimalLibrary\obj\Debug\AnimalLibrary.csproj.AssemblyReference.cache
+C:\Users\shelly\Desktop\task4\AnimalLibrary\obj\Debug\AnimalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shelly\Desktop\task4\AnimalLibrary\obj\Debug\AnimalLibrary.dll
+C:\Users\shelly\Desktop\task4\AnimalLibrary\obj\Debug\AnimalLibrary.pdb
+C:\Users\shelly\Desktop\task4\AnimalLibrary\bin\Debug\AnimalLibrary.dll
+C:\Users\shelly\Desktop\task4\AnimalLibrary\bin\Debug\AnimalLibrary.pdb

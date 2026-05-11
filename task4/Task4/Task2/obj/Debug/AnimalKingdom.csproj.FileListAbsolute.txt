@@ -1,0 +1,5 @@
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\Task2\Task2\obj\Debug\AnimalKingdom.csproj.AssemblyReference.cache
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\Task2\Task2\obj\Debug\MainWindow.g.cs
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\Task2\Task2\obj\Debug\App.g.cs
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\Task2\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Users\shelly\Desktop\6 semestr\Инф-е технологии\Task2\Task2\obj\Debug\Task2_MarkupCompile.lref
